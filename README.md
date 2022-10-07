@@ -15,12 +15,12 @@ For the dataset, I have used the breast cancer data from the scikit library. The
 model is used from the keras library.
 
 The results are as follows:
-Baseline Logistic Regression Classifier approach:
-Accuracy:0.944,Precision:0.936,Recall:0.948,F1-score:0.942
+**Baseline Logistic Regression Classifier approach:**
+Accuracy:0.944, Precision:0.936, Recall:0.948, F1-score:0.942
 
-Transfer Learning with Image Classification approach:
-Accuracy:0.902,Precision:0.895,Recall:0.895,F1-score:0.895
+T**ransfer Learning with Image Classification approach:**
+Accuracy:0.902, Precision:0.895, Recall:0.895, F1-score:0.895
 
 The transfer learning is so powerful, even the task is not related the accuracy of the model is quite high but not high as logistic regression. However, if
-the task would have been related we can expect much higher evaluation metric. 
+the task would have been related we could expect much higher evaluation metric. 
 
